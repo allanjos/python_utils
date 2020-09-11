@@ -5,8 +5,8 @@ dbs = [
     {
         "server": 'localhost',
         "db_name": 'db01',
-        "username": 'admin01',
-        "password": 'sqlserver',
+        "username": '',
+        "password": '',
         "driver": '{ODBC Driver 13 for SQL Server}',
         "tables": [
             'table_01',
@@ -19,8 +19,8 @@ dbs = [
     {
         "server": 'localhost',
         "db_name": 'db02',
-        "username": 'admin01',
-        "password": 'sqlserver',
+        "username": '',
+        "password": '',
         "driver": '{ODBC Driver 13 for SQL Server}',
         "tables": [
             'table_01',
